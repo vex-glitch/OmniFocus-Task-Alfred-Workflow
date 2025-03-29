@@ -68,8 +68,8 @@ Once the workflow is up, you will have a subtitle telling you what to do - 🚩!
 This workflow is based on:
 
 • David Verhasselt’s Alfred Workflow — originally built for Alfred 2 and OmniFocus 2. It’s ~10 years old and didn’t run on my setup, but it inspired this reboot.
-
 • OmniFocus Collection workflow by Otto Automator (The Omni Group): Helped me adapt the project/tag filtering mechanism.
+
 ---
 ### Version
 
