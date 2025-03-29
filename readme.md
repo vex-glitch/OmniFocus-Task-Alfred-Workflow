@@ -65,8 +65,11 @@ Once the workflow is up, you will have a subtitle telling you what to do - 🚩!
  ---  
 ### Credits
 
-Note: This workflow is heavily based on [dv/alfred-omnifocus-workflow: An Alfred 2 workflow to create tasks in OmniFocus featuring autocompletion of Project and Context](https://github.com/dv/alfred-omnifocus-workflow) by David Verhasselt that I found on Github but could not get to work. (After all it is 10 years old)
-I have also pulled some parts of the [OmniFocus Collection](https://alfred.app/workflows/omnigroup/omnifocus-collection/) Workflow by [The Omni Group](https://www.omnigroup.com/) Otto Automator to help with filtering.
+This workflow is based on:
+
+• David Verhasselt’s Alfred Workflow — originally built for Alfred 2 and OmniFocus 2. It’s ~10 years old and didn’t run on my setup, but it inspired this reboot.
+
+• OmniFocus Collection workflow by Otto Automator (The Omni Group): Helped me adapt the project/tag filtering mechanism.
 ---
 ### Version
 
